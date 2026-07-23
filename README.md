@@ -1,6 +1,6 @@
 # Super-Store-Sales-Dashboard
 
-**Key Business Insights:-**
+**Key Business Insights**
 1. Consumer customers are the biggest revenue contributors.
 2. Office Supplies generate the highest sales.
 3. Phones are the best-selling sub-category.
@@ -9,7 +9,7 @@
 6. Sales and profits increase sharply during Q4.
 7. Profit margins appear healthy but could be improved through better pricing and cost control.
 
-**Business Recommendations:-**
+**Business Recommendations**
 1. Increase marketing investment in the Consumer segment, as it contributes nearly half of total sales.
 2. Expand high-performing product lines such as Phones, while reviewing strategies for lower-performing categories like Accessories.
 3. Improve profitability in lower-margin categories by optimizing pricing, discounts, and supplier costs.
